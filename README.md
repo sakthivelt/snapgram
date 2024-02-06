@@ -23,7 +23,6 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 
-## 🚨 Tutorial
 
 ## <a name="introduction">🤖 Introduction</a>
 
